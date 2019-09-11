@@ -1,5 +1,4 @@
 # git-start
 Learning Git
 
-still learning more Git
-
+This is a new line.
